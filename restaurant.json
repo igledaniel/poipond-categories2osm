@@ -11,7 +11,7 @@
 			"amenity":"restaurant", "cuisine":"american"
 		},
 		"Argentinian": {
-			"amenity":"restaurant", "cuisine":"argentinian", "cuisine":"south_american"
+			"amenity":"restaurant", "cuisine":"argentinian"
 		},
 		"Asian": {
 			"amenity":"restaurant", "cuisine":"asian"
@@ -29,7 +29,7 @@
 			"amenity":"restaurant", "cuisine":"bakery"
 		},
 		"Brazilian": {
-			"amenity":"restaurant", "cuisine":"brazilian", "cuisine":"south_american"
+			"amenity":"restaurant", "cuisine":"brazilian"
 		},
 		"Breakfast": {
 			"amenity":"restaurant", "cuisine":"breakfast"
@@ -50,13 +50,13 @@
 			"amenity":"restaurant", "cuisine":"caribbean"
 		},
 		"Chinese": {
-			"amenity":"restaurant", "cuisine":"chinese", "cuisine":"asian"
+			"amenity":"restaurant", "cuisine":"chinese"
 		},
 		"Coffee Shop": {
 			"amenity":"restaurant", "cuisine":"coffee"
 		},
 		"Cuban": {
-			"amenity":"restaurant", "cuisine":"cuban", "cuisine":"latin_american"
+			"amenity":"restaurant", "cuisine":"cuban"
 		},
 		"Cupcake": {
 			"amenity":"restaurant", "cuisine":"cupcake"
@@ -68,7 +68,7 @@
 			"amenity":"restaurant", "cuisine":"dessert"
 		},
 		"Dim Sum": {
-			"amenity":"restaurant", "cuisine":"dim_sum", "cuisine":"asian"
+			"amenity":"restaurant", "cuisine":"dim_sum"
 		},
 		"Diner": {
 			"amenity":"restaurant", "cuisine":"diner"
@@ -113,7 +113,7 @@
 			"amenity":"restaurant", "cuisine":"greek"
 		},
 		"Hot Dog": {
-			"amenity":"restaurant", "cuisine":"hot_dog", "cuisine":"american"
+			"amenity":"restaurant", "cuisine":"hot_dog"
 		},
 		"Ice Cream": {
 			"amenity":"restaurant", "cuisine":"ice_cream"
@@ -128,19 +128,19 @@
 			"amenity":"restaurant", "cuisine":"italian"
 		},
 		"Japanese": {
-			"amenity":"restaurant", "cuisine":"japanese", "cuisine":"asian"
+			"amenity":"restaurant", "cuisine":"japanese"
 		},
 		"Juice Bar": {
 			"amenity":"restaurant", "cuisine":"juice_bar"
 		},
 		"Korean": {
-			"amenity":"restaurant", "cuisine":"korean", "cuisine":"asian"
+			"amenity":"restaurant", "cuisine":"korean"
 		},
 		"Latin American": {
 			"amenity":"restaurant", "cuisine":"latin_american"
 		},
 		"Malaysian": {
-			"amenity":"restaurant", "cuisine":"malaysian", "cuisine":"asian"
+			"amenity":"restaurant", "cuisine":"malaysian"
 		},
 		"Mediterranean": {
 			"amenity":"restaurant", "cuisine":"mediterranean"
@@ -152,7 +152,7 @@
 			"amenity":"restaurant", "cuisine":"middle_eastern"
 		},
 		"Mongolian": {
-			"amenity":"restaurant", "cuisine":"mongolian", "cuisine":"asian"
+			"amenity":"restaurant", "cuisine":"mongolian"
 		},
 		"Moroccan": {
 			"amenity":"restaurant", "cuisine":"moroccan"
@@ -161,7 +161,7 @@
 			"amenity":"restaurant", "cuisine":"new_american"
 		},
 		"Peruvian": {
-			"amenity":"restaurant", "cuisine":"peruvian", "cuisine":"south_american"
+			"amenity":"restaurant", "cuisine":"peruvian"
 		},
 		"Pizza": {
 			"amenity":"restaurant", "cuisine":"pizza"
@@ -170,7 +170,7 @@
 			"amenity":"restaurant", "cuisine":"portuguese"
 		},
 		"Ramen": {
-			"amenity":"restaurant", "cuisine":"ramen", "cuisine":"japanese", "cuisine":"asian"
+			"amenity":"restaurant", "cuisine":"ramen"
 		},
 		"Romanian": {
 			"amenity":"restaurant", "cuisine":"romanian"
@@ -197,7 +197,7 @@
 			"amenity":"restaurant", "cuisine":"south american"
 		},
 		"Soul Food": {
-			"amenity":"restaurant", "cuisine":"soul_food", "cuisine":"american"
+			"amenity":"restaurant", "cuisine":"soul_food"
 		},
 		"Spanish": {
 			"amenity":"restaurant", "cuisine":"spanish"
@@ -206,22 +206,22 @@
 			"amenity":"restaurant", "cuisine":"steakhouse"
 		},
 		"Sushi": {
-			"amenity":"restaurant", "cuisine":"sushi", "cuisine":"japanese", "cuisine":"asian"
+			"amenity":"restaurant", "cuisine":"sushi"
 		},
 		"Swiss": {
 			"amenity":"restaurant", "cuisine":"swiss"
 		},
 		"Tacos": {
-			"amenity":"restaurant", "cuisine":"taco", "cuisine":"mexican"
+			"amenity":"restaurant", "cuisine":"taco"
 		},
 		"Tapas": {
-			"amenity":"restaurant", "cuisine":"tapas", "cuisine":"spanish"
+			"amenity":"restaurant", "cuisine":"tapas"
 		},
 		"Tea Room": {
 			"amenity":"restaurant", "cuisine":"tea"
 		},
 		"Thai": {
-			"amenity":"restaurant", "cuisine":"thai", "cuisine":"asian"
+			"amenity":"restaurant", "cuisine":"thai"
 		},
 		"Tibetan": {
 			"amenity":"restaurant", "cuisine":"tibetan"
@@ -230,7 +230,7 @@
 			"amenity":"restaurant", "cuisine":"turkish"
 		},
 		"Vietnamese": {
-			"amenity":"restaurant", "cuisine":"vietnamese", "cuisine":"asian"
+			"amenity":"restaurant", "cuisine":"vietnamese"
 		},
 		"Wings": {
 			"amenity":"restaurant", "cuisine":"wings"		}
