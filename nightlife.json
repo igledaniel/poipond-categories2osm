@@ -1,0 +1,22 @@
+[
+{
+	"Bar": {
+		"amenity":"bar"
+		},
+	"Beer Garden": {
+		"amenity":"biergarten"
+		},
+	"Hookah Bar": {
+		"amenity":"hookah_lounge"
+		},
+	"Karaoke Bar": {
+		"amenity":"karaoke"
+		},
+	"Lounge": {
+		"amenity":"lounge"
+		},
+	"Club": {
+		"amenity":"nightclub"
+		}
+}
+]

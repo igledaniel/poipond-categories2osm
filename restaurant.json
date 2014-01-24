@@ -1,0 +1,238 @@
+[
+{
+	"Restaurant":{
+		"Afgahn": {
+			"amenity":"restaurant", "cuisine":"afgahn"
+		},
+		"African": {
+			"amenity":"restaurant", "cuisine":"african"
+		},
+		"American": {
+			"amenity":"restaurant", "cuisine":"american"
+		},
+		"Argentinian": {
+			"amenity":"restaurant", "cuisine":"argentinian", "cuisine":"south_american"
+		},
+		"Asian": {
+			"amenity":"restaurant", "cuisine":"asian"
+		},
+		"Australian": {
+			"amenity":"restaurant", "cuisine":"australian"
+		},
+		"BBQ": {
+			"amenity":"restaurant", "cuisine":"bbq"
+		},
+		"Bagel": {
+			"amenity":"restaurant", "cuisine":"bagel"
+		},
+		"Bakery": {
+			"amenity":"restaurant", "cuisine":"bakery"
+		},
+		"Brazilian": {
+			"amenity":"restaurant", "cuisine":"brazilian", "cuisine":"south_american"
+		},
+		"Breakfast": {
+			"amenity":"restaurant", "cuisine":"breakfast"
+		},
+		"Brewery": {
+			"amenity":"restaurant", "cuisine":"brewery"
+		},
+		"Burger": {
+			"amenity":"restaurant", "cuisine":"burger"
+		},
+		"Burrito": {
+			"amenity":"restaurant", "cuisine":"burrito"
+		},
+		"Cajun": {
+			"amenity":"restaurant", "cuisine":"cajun"
+		},
+		"Caribbean": {
+			"amenity":"restaurant", "cuisine":"caribbean"
+		},
+		"Chinese": {
+			"amenity":"restaurant", "cuisine":"chinese", "cuisine":"asian"
+		},
+		"Coffee Shop": {
+			"amenity":"restaurant", "cuisine":"coffee"
+		},
+		"Cuban": {
+			"amenity":"restaurant", "cuisine":"cuban", "cuisine":"latin_american"
+		},
+		"Cupcake": {
+			"amenity":"restaurant", "cuisine":"cupcake"
+		},
+		"Deli": {
+			"amenity":"restaurant", "cuisine":"deli"
+		},
+		"Dessert": {
+			"amenity":"restaurant", "cuisine":"dessert"
+		},
+		"Dim Sum": {
+			"amenity":"restaurant", "cuisine":"dim_sum", "cuisine":"asian"
+		},
+		"Diner": {
+			"amenity":"restaurant", "cuisine":"diner"
+		},
+		"Donut": {
+			"amenity":"restaurant", "cuisine":"Donut"
+		},
+		"Dumpling": {
+			"amenity":"restaurant", "cuisine":"dumpling"
+		},
+		"Eastern European": {
+			"amenity":"restaurant", "cuisine":"eastern_european"
+		},
+		"Ethiopian": {
+			"amenity":"restaurant", "cuisine":"ethiopian"
+		},
+		"Falafel": {
+			"amenity":"restaurant", "cuisine":"falafel"
+		},
+		"Fast Food": {
+			"amenity":"fast_food", "cuisine":"fast_food"
+		},
+		"Filipino": {
+			"amenity":"restaurant", "cuisine":"filipino"
+		},
+		"Fish and Chips": {
+			"amenity":"restaurant", "cuisine":"fish_and_chips"
+		},
+		"French": {
+			"amenity":"restaurant", "cuisine":"french"
+		},
+		"Fried Chicken": {
+			"amenity":"restaurant", "cuisine":"fried_chicken"
+		},
+		"Frozen Yogurt": {
+			"amenity":"restaurant", "cuisine":"frozen_yogurt"
+		},
+		"German": {
+			"amenity":"restaurant", "cuisine":"german"
+		},
+		"Greek": {
+			"amenity":"restaurant", "cuisine":"greek"
+		},
+		"Hot Dog": {
+			"amenity":"restaurant", "cuisine":"hot_dog", "cuisine":"american"
+		},
+		"Ice Cream": {
+			"amenity":"restaurant", "cuisine":"ice_cream"
+		},
+		"Indian": {
+			"amenity":"restaurant", "cuisine":"indian"
+		},
+		"Indonesian": {
+			"amenity":"restaurant", "cuisine":"indonesian"
+		},
+		"Italian": {
+			"amenity":"restaurant", "cuisine":"italian"
+		},
+		"Japanese": {
+			"amenity":"restaurant", "cuisine":"japanese", "cuisine":"asian"
+		},
+		"Juice Bar": {
+			"amenity":"restaurant", "cuisine":"juice_bar"
+		},
+		"Korean": {
+			"amenity":"restaurant", "cuisine":"korean", "cuisine":"asian"
+		},
+		"Latin American": {
+			"amenity":"restaurant", "cuisine":"latin_american"
+		},
+		"Malaysian": {
+			"amenity":"restaurant", "cuisine":"malaysian", "cuisine":"asian"
+		},
+		"Mediterranean": {
+			"amenity":"restaurant", "cuisine":"mediterranean"
+		},
+		"Mexican": {
+			"amenity":"restaurant", "cuisine":"mexican"
+		},
+		"Middle Eastern": {
+			"amenity":"restaurant", "cuisine":"middle_eastern"
+		},
+		"Mongolian": {
+			"amenity":"restaurant", "cuisine":"mongolian", "cuisine":"asian"
+		},
+		"Moroccan": {
+			"amenity":"restaurant", "cuisine":"moroccan"
+		},
+		"New American": {
+			"amenity":"restaurant", "cuisine":"new_american"
+		},
+		"Peruvian": {
+			"amenity":"restaurant", "cuisine":"peruvian", "cuisine":"south_american"
+		},
+		"Pizza": {
+			"amenity":"restaurant", "cuisine":"pizza"
+		},
+		"Portuguese": {
+			"amenity":"restaurant", "cuisine":"portuguese"
+		},
+		"Ramen": {
+			"amenity":"restaurant", "cuisine":"ramen", "cuisine":"japanese", "cuisine":"asian"
+		},
+		"Romanian": {
+			"amenity":"restaurant", "cuisine":"romanian"
+		},
+		"Russian": {
+			"amenity":"restaurant", "cuisine":"russian"
+		},
+		"Salad": {
+			"amenity":"restaurant", "cuisine":"salad"
+		},
+		"Sandwich": {
+			"amenity":"restaurant", "cuisine":"sandwich"
+		},
+		"Scandinavian": {
+			"amenity":"restaurant", "cuisine":"scandinavian"
+		},
+		"Seafood": {
+			"amenity":"restaurant", "cuisine":"seafood"
+		},
+		"Soup": {
+			"amenity":"restaurant", "cuisine":"soup"
+		},
+		"South American": {
+			"amenity":"restaurant", "cuisine":"south american"
+		},
+		"Soul Food": {
+			"amenity":"restaurant", "cuisine":"soul_food", "cuisine":"american"
+		},
+		"Spanish": {
+			"amenity":"restaurant", "cuisine":"spanish"
+		},
+		"Steakhouse": {
+			"amenity":"restaurant", "cuisine":"steakhouse"
+		},
+		"Sushi": {
+			"amenity":"restaurant", "cuisine":"sushi", "cuisine":"japanese", "cuisine":"asian"
+		},
+		"Swiss": {
+			"amenity":"restaurant", "cuisine":"swiss"
+		},
+		"Tacos": {
+			"amenity":"restaurant", "cuisine":"taco", "cuisine":"mexican"
+		},
+		"Tapas": {
+			"amenity":"restaurant", "cuisine":"tapas", "cuisine":"spanish"
+		},
+		"Tea Room": {
+			"amenity":"restaurant", "cuisine":"tea"
+		},
+		"Thai": {
+			"amenity":"restaurant", "cuisine":"thai", "cuisine":"asian"
+		},
+		"Tibetan": {
+			"amenity":"restaurant", "cuisine":"tibetan"
+		},
+		"Turkish": {
+			"amenity":"restaurant", "cuisine":"turkish"
+		},
+		"Vietnamese": {
+			"amenity":"restaurant", "cuisine":"vietnamese", "cuisine":"asian"
+		},
+		"Wings": {
+			"amenity":"restaurant", "cuisine":"wings"		}
+	}
+}]
